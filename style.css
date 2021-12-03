@@ -1,0 +1,62 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+.note{
+    font-size: 20px;
+    color: black;
+}
+body {
+background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img{
+    width: 210px;
+    border-radius: 100px;
+
+}
+
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+.div_volume{
+    float: right;
+}
+
+.div_volume_img{
+    width: 210px;
+    border-radius: 100px;
+
+}
+
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.footer{
+    font-size: 25px;
+    width: 100%;
+    background-color: yellowgreen;
+    font-weight: bold;
+    text-align: center;
+    bottom: 0;
+    margin-bottom: 5px;
+    position: fixed;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
